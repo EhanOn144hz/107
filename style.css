@@ -1,0 +1,33 @@
+font-family: 'Nerko One', cursive;
+body
+{
+    background: #0084ff;
+}
+.header_div
+{
+    background-color: rgb(255, 255, 255);
+    color:black
+}
+.header_div p{
+    font-family: 'Nerko One', cursive;
+    font-weight: 500;  
+    letter-spacing: 5px;
+    font-size: 18px; 
+}
+.main_div button{
+    font-family: 'Nerko One', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing:3px;
+}
+.copy_right_footer{
+    background-color: aliceblue;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 3px 3px 3px rgb(151,149,149);
+    font-size:18px;
+    position: fixed;
+    bottom: 0px;
+}
